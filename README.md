@@ -50,8 +50,7 @@ The program will then present a menu where you can choose which automaton to tes
     -   `NPDA.h`, `NPDA.cpp`: Implementation of the NPDA.
     -   `main.cpp`: The main entry point, containing the menu and all UI logic.
 -   `Makefile`: Compilation script.
--   `Specifications-OOP.ini`: The specifications for the programming tasks.
--   `*.c`: Original procedural C implementations. 
+
 
 ## Acknowledgements
 
