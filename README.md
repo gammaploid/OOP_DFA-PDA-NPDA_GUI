@@ -1,4 +1,4 @@
-# Object-Oriented Automaton Simulator
+# DFA, PDA, and NPDA in Object-Oriented Programming
 
 ## Demos
 
